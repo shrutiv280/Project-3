@@ -3,6 +3,7 @@ This Python code snippet provides a simplified Expense Tracker system. It allows
 Example expenses are added, and their monthly summary is printed. Then, the expenses are saved to a file named "expenses.json". After that, the expenses are loaded from the file, and the monthly summary is printed again to ensure that the loading process was successful.
 
 **Features:**
+
 **1.Adding Expenses:** Users can add daily expenses by providing the amount spent, a brief description, and a category.
 
 **2.Monthly Summary:** Users can view a summary of their monthly expenses, categorized by expense category.
