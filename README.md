@@ -12,6 +12,7 @@ Example expenses are added, and their monthly summary is printed. Then, the expe
 **3.Saving Expenses:** Expenses can be saved to a file in JSON format for later retrieval.
 
 **4.Loading Expenses:** Previously saved expenses can be loaded from a file, allowing users to resume tracking their expenses.
+
 These features provide basic functionality for users to input, manage, and analyze their expenses over time.
 
 
